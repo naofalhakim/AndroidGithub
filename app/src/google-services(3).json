@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "562617097194",
+    "firebase_url": "https://android-github-be8e5.firebaseio.com",
+    "project_id": "android-github-be8e5",
+    "storage_bucket": "android-github-be8e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562617097194:android:737ef8b585a7e0f4ee7093",
+        "android_client_info": {
+          "package_name": "com.coba.cermatiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562617097194-mp6fc16qkgm8bjac8slik6vn0psjahbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1fLSfXAGCCHBE4gkTzfrpHobG8An9p0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562617097194-mp6fc16qkgm8bjac8slik6vn0psjahbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
